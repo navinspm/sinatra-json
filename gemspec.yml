@@ -10,7 +10,7 @@ homepage: https://github.com/postmodern/sinatra-json#readme
 
 dependencies:
   multi_json: ~> 1.0
-  sinatra: ~> 1.0
+  sinatra: ~> 2.0.0.beta2
 
 development_dependencies:
   rake: ~> 10.0
